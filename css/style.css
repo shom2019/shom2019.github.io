@@ -315,7 +315,7 @@ section:nth-child(even) {
     padding-top: 6px;
 }
 
-#heading6 {
+#heading_6 {
   width: 520px;
   height: 40px;
   background: #fff;
@@ -324,7 +324,7 @@ section:nth-child(even) {
     text-align: center;
     padding-top: 6px;
 }
-#heading7 {
+#heading_7 {
   width: 520px;
   height: 40px;
   background: #fff;
@@ -335,7 +335,7 @@ section:nth-child(even) {
     
     padding-top: 6px;
 }
-#heading8 {
+#heading_8 {
   width: 520px;
   height: 40px;
   background: #fff;
